@@ -1,5 +1,5 @@
 
-Here are some of my respitories for you to use if you don't want to code basic stuff for a website.
+Here are some of my respitories for you to use if you want to code basic stuff for a website.
 What I am mastered at: 
 HTML, CSS, JS
 
